@@ -1,0 +1,17 @@
+include <stdio.h>
+void main()
+{
+    char name[]  ="kamalkanthkj";
+    char gender  ='M';
+    int age  =18;
+    float height  =3.5;
+
+    printf("\nname %s",name);
+    
+    printf("\ngender%c",gender);
+    
+    printf("\nage%d",age);
+ 
+    printf("\nheight%f",height);
+   
+}
